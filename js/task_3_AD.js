@@ -18,7 +18,6 @@ const tax = 0.26
 const phonePrice = 400
 const accessoriesPrice = 50
 let bankAccount = +prompt('Укажите сумму на вашем счету','')
-// let bankAccount = 1500
 
 function taxOnPhone(phonePrice, tax) {
     return phonePrice * tax

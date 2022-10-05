@@ -10,9 +10,6 @@
 //     getSum(-1, 2) == 2  // -1 + 0 + 1 + 2 = 2
 // ```
 
-// let a1 = 1
-// let b1 = 3
-
 let a1 = +prompt('Please enter first number')
 let b1 = +prompt('Please enter second number')
 
